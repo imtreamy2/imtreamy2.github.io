@@ -1,0 +1,25 @@
+body{
+    background-color: blue;
+}
+
+section{
+    background-color: aquamarine;
+    margin: 2em;
+    transition: all 2s;
+}
+
+#treamygamingG{
+    background-color: blueviolet;
+}
+
+UnitedKings{
+    background-color: blanchedalmond;
+}
+
+section:hover{
+    background-color: beige;
+}
+
+section:active{
+    outline: 15px solid gold
+}
